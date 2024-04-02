@@ -16,7 +16,7 @@ The API was built with FastAPI and can be found [here.](https://credit-fraud-ml-
 
 The notebook, model and documentation(Dockerfiles, FastAPI script, Streamlit App script) are available on [GitHub.](https://github.com/Nneji123/Credit-Card-Fraud-Detection)        
 
-**
+**Carried out by Akello Beauttah Graham a final year student in Jomo Kenyatta University of Agriculture and Technology under the supervison and help of Lecturer Charles Wamuti
 """)
 
 
